@@ -1,0 +1,14 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial /SolucaoNet10/ProjetoNet10/bin/Debug/net10.0/ProjetoNet10
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial /SolucaoNet10/ProjetoNet10/bin/Debug/net10.0/ProjetoNet10.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial /SolucaoNet10/ProjetoNet10/bin/Debug/net10.0/ProjetoNet10.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial /SolucaoNet10/ProjetoNet10/bin/Debug/net10.0/ProjetoNet10.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial /SolucaoNet10/ProjetoNet10/bin/Debug/net10.0/ProjetoNet10.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial /SolucaoNet10/ProjetoNet10/obj/Debug/net10.0/ProjetoNet10.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial /SolucaoNet10/ProjetoNet10/obj/Debug/net10.0/ProjetoNet10.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial /SolucaoNet10/ProjetoNet10/obj/Debug/net10.0/ProjetoNet10.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial /SolucaoNet10/ProjetoNet10/obj/Debug/net10.0/ProjetoNet10.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial /SolucaoNet10/ProjetoNet10/obj/Debug/net10.0/ProjetoNet10.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial /SolucaoNet10/ProjetoNet10/obj/Debug/net10.0/refint/ProjetoNet10.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial /SolucaoNet10/ProjetoNet10/obj/Debug/net10.0/ProjetoNet10.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial /SolucaoNet10/ProjetoNet10/obj/Debug/net10.0/ProjetoNet10.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial /SolucaoNet10/ProjetoNet10/obj/Debug/net10.0/ref/ProjetoNet10.dll
