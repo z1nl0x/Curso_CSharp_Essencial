@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/bin/Debug/net10.0/TiposDeDados4
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/bin/Debug/net10.0/TiposDeDados4.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/bin/Debug/net10.0/TiposDeDados4.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/bin/Debug/net10.0/TiposDeDados4.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/bin/Debug/net10.0/TiposDeDados4.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/obj/Debug/net10.0/TiposDeDados4.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/obj/Debug/net10.0/TiposDeDados4.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/obj/Debug/net10.0/TiposDeDados4.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/obj/Debug/net10.0/TiposDeDados4.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/obj/Debug/net10.0/TiposDeDados4.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/obj/Debug/net10.0/TiposDeDados4.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/obj/Debug/net10.0/refint/TiposDeDados4.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/obj/Debug/net10.0/TiposDeDados4.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/obj/Debug/net10.0/TiposDeDados4.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TiposDeDados4/obj/Debug/net10.0/ref/TiposDeDados4.dll

@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/bin/Debug/net10.0/OperadoresAritmeticos
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/bin/Debug/net10.0/OperadoresAritmeticos.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/bin/Debug/net10.0/OperadoresAritmeticos.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/bin/Debug/net10.0/OperadoresAritmeticos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/bin/Debug/net10.0/OperadoresAritmeticos.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net10.0/OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net10.0/OperadoresAritmeticos.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net10.0/OperadoresAritmeticos.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net10.0/OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net10.0/OperadoresAritmeticos.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net10.0/OperadoresAritmeticos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net10.0/refint/OperadoresAritmeticos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net10.0/OperadoresAritmeticos.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net10.0/OperadoresAritmeticos.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/OperadoresAritmeticos/obj/Debug/net10.0/ref/OperadoresAritmeticos.dll

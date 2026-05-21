@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/bin/Debug/net10.0/SaidaDados
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/bin/Debug/net10.0/SaidaDados.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/bin/Debug/net10.0/SaidaDados.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/bin/Debug/net10.0/SaidaDados.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/bin/Debug/net10.0/SaidaDados.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/obj/Debug/net10.0/SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/obj/Debug/net10.0/SaidaDados.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/obj/Debug/net10.0/SaidaDados.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/obj/Debug/net10.0/SaidaDados.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/obj/Debug/net10.0/SaidaDados.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/obj/Debug/net10.0/SaidaDados.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/obj/Debug/net10.0/refint/SaidaDados.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/obj/Debug/net10.0/SaidaDados.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/obj/Debug/net10.0/SaidaDados.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/SaidaDados/obj/Debug/net10.0/ref/SaidaDados.dll

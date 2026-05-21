@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/bin/Debug/net10.0/TipoDateTime1
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/bin/Debug/net10.0/TipoDateTime1.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/bin/Debug/net10.0/TipoDateTime1.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/bin/Debug/net10.0/TipoDateTime1.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/bin/Debug/net10.0/TipoDateTime1.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/obj/Debug/net10.0/TipoDateTime1.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/obj/Debug/net10.0/TipoDateTime1.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/obj/Debug/net10.0/TipoDateTime1.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/obj/Debug/net10.0/TipoDateTime1.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/obj/Debug/net10.0/TipoDateTime1.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/obj/Debug/net10.0/TipoDateTime1.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/obj/Debug/net10.0/refint/TipoDateTime1.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/obj/Debug/net10.0/TipoDateTime1.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/obj/Debug/net10.0/TipoDateTime1.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/TipoDateTime1/obj/Debug/net10.0/ref/TipoDateTime1.dll

@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/bin/Debug/net10.0/ConversaoTipos
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/bin/Debug/net10.0/ConversaoTipos.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/bin/Debug/net10.0/ConversaoTipos.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/bin/Debug/net10.0/ConversaoTipos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/bin/Debug/net10.0/ConversaoTipos.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/obj/Debug/net10.0/ConversaoTipos.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/obj/Debug/net10.0/ConversaoTipos.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/obj/Debug/net10.0/ConversaoTipos.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/obj/Debug/net10.0/ConversaoTipos.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/obj/Debug/net10.0/ConversaoTipos.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/obj/Debug/net10.0/ConversaoTipos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/obj/Debug/net10.0/refint/ConversaoTipos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/obj/Debug/net10.0/ConversaoTipos.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/obj/Debug/net10.0/ConversaoTipos.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/ConversaoTipos/obj/Debug/net10.0/ref/ConversaoTipos.dll

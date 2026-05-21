@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/bin/Debug/net10.0/InferenciaTipos1
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/bin/Debug/net10.0/InferenciaTipos1.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/bin/Debug/net10.0/InferenciaTipos1.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/bin/Debug/net10.0/InferenciaTipos1.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/bin/Debug/net10.0/InferenciaTipos1.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net10.0/InferenciaTipos1.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net10.0/InferenciaTipos1.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net10.0/InferenciaTipos1.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net10.0/InferenciaTipos1.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net10.0/InferenciaTipos1.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net10.0/InferenciaTipos1.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net10.0/refint/InferenciaTipos1.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net10.0/InferenciaTipos1.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net10.0/InferenciaTipos1.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/CSFundamentos1/InferenciaTipos1/obj/Debug/net10.0/ref/InferenciaTipos1.dll
