@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/bin/Debug/net10.0/7InstrucaoDoWhile
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/bin/Debug/net10.0/7InstrucaoDoWhile.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/bin/Debug/net10.0/7InstrucaoDoWhile.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/bin/Debug/net10.0/7InstrucaoDoWhile.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/bin/Debug/net10.0/7InstrucaoDoWhile.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/obj/Debug/net10.0/7InstrucaoDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/obj/Debug/net10.0/7InstrucaoDoWhile.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/obj/Debug/net10.0/7InstrucaoDoWhile.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/obj/Debug/net10.0/7InstrucaoDoWhile.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/obj/Debug/net10.0/7InstrucaoDoWhile.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/obj/Debug/net10.0/7InstrucaoDoWhile.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/obj/Debug/net10.0/refint/7InstrucaoDoWhile.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/obj/Debug/net10.0/7InstrucaoDoWhile.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/obj/Debug/net10.0/7InstrucaoDoWhile.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/7InstrucaoDoWhile/obj/Debug/net10.0/ref/7InstrucaoDoWhile.dll

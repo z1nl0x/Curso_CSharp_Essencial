@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/bin/Debug/net10.0/10BreakContinue
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/bin/Debug/net10.0/10BreakContinue.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/bin/Debug/net10.0/10BreakContinue.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/bin/Debug/net10.0/10BreakContinue.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/bin/Debug/net10.0/10BreakContinue.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/obj/Debug/net10.0/10BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/obj/Debug/net10.0/10BreakContinue.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/obj/Debug/net10.0/10BreakContinue.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/obj/Debug/net10.0/10BreakContinue.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/obj/Debug/net10.0/10BreakContinue.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/obj/Debug/net10.0/10BreakContinue.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/obj/Debug/net10.0/refint/10BreakContinue.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/obj/Debug/net10.0/10BreakContinue.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/obj/Debug/net10.0/10BreakContinue.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/10BreakContinue/obj/Debug/net10.0/ref/10BreakContinue.dll

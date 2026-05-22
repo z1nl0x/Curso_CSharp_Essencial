@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/bin/Debug/net10.0/8RepeticaoFor
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/bin/Debug/net10.0/8RepeticaoFor.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/bin/Debug/net10.0/8RepeticaoFor.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/bin/Debug/net10.0/8RepeticaoFor.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/bin/Debug/net10.0/8RepeticaoFor.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/obj/Debug/net10.0/8RepeticaoFor.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/obj/Debug/net10.0/8RepeticaoFor.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/obj/Debug/net10.0/8RepeticaoFor.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/obj/Debug/net10.0/8RepeticaoFor.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/obj/Debug/net10.0/8RepeticaoFor.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/obj/Debug/net10.0/8RepeticaoFor.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/obj/Debug/net10.0/refint/8RepeticaoFor.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/obj/Debug/net10.0/8RepeticaoFor.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/obj/Debug/net10.0/8RepeticaoFor.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/EstruturasControle/8RepeticaoFor/obj/Debug/net10.0/ref/8RepeticaoFor.dll
