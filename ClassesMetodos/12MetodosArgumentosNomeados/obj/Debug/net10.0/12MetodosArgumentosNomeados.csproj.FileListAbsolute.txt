@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/bin/Debug/net10.0/12MetodosArgumentosNomeados
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/bin/Debug/net10.0/12MetodosArgumentosNomeados.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/bin/Debug/net10.0/12MetodosArgumentosNomeados.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/bin/Debug/net10.0/12MetodosArgumentosNomeados.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/bin/Debug/net10.0/12MetodosArgumentosNomeados.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/obj/Debug/net10.0/12MetodosArgumentosNomeados.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/obj/Debug/net10.0/12MetodosArgumentosNomeados.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/obj/Debug/net10.0/12MetodosArgumentosNomeados.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/obj/Debug/net10.0/12MetodosArgumentosNomeados.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/obj/Debug/net10.0/12MetodosArgumentosNomeados.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/obj/Debug/net10.0/12MetodosArgumentosNomeados.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/obj/Debug/net10.0/refint/12MetodosArgumentosNomeados.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/obj/Debug/net10.0/12MetodosArgumentosNomeados.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/obj/Debug/net10.0/12MetodosArgumentosNomeados.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/12MetodosArgumentosNomeados/obj/Debug/net10.0/ref/12MetodosArgumentosNomeados.dll
