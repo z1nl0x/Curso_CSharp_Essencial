@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/bin/Debug/net10.0/8MetodosComRetorno2
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/bin/Debug/net10.0/8MetodosComRetorno2.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/bin/Debug/net10.0/8MetodosComRetorno2.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/bin/Debug/net10.0/8MetodosComRetorno2.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/bin/Debug/net10.0/8MetodosComRetorno2.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/obj/Debug/net10.0/8MetodosComRetorno2.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/obj/Debug/net10.0/8MetodosComRetorno2.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/obj/Debug/net10.0/8MetodosComRetorno2.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/obj/Debug/net10.0/8MetodosComRetorno2.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/obj/Debug/net10.0/8MetodosComRetorno2.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/obj/Debug/net10.0/8MetodosComRetorno2.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/obj/Debug/net10.0/refint/8MetodosComRetorno2.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/obj/Debug/net10.0/8MetodosComRetorno2.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/obj/Debug/net10.0/8MetodosComRetorno2.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/8MetodosComRetorno2/obj/Debug/net10.0/ref/8MetodosComRetorno2.dll

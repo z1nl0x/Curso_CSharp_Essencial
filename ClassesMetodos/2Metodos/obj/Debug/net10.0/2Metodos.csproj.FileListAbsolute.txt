@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/bin/Debug/net10.0/2Metodos
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/bin/Debug/net10.0/2Metodos.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/bin/Debug/net10.0/2Metodos.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/bin/Debug/net10.0/2Metodos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/bin/Debug/net10.0/2Metodos.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/obj/Debug/net10.0/2Metodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/obj/Debug/net10.0/2Metodos.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/obj/Debug/net10.0/2Metodos.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/obj/Debug/net10.0/2Metodos.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/obj/Debug/net10.0/2Metodos.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/obj/Debug/net10.0/2Metodos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/obj/Debug/net10.0/refint/2Metodos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/obj/Debug/net10.0/2Metodos.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/obj/Debug/net10.0/2Metodos.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/2Metodos/obj/Debug/net10.0/ref/2Metodos.dll

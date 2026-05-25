@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/bin/Debug/net10.0/9PassandoArgumentosPorValor
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/bin/Debug/net10.0/9PassandoArgumentosPorValor.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/bin/Debug/net10.0/9PassandoArgumentosPorValor.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/bin/Debug/net10.0/9PassandoArgumentosPorValor.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/bin/Debug/net10.0/9PassandoArgumentosPorValor.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/obj/Debug/net10.0/9PassandoArgumentosPorValor.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/obj/Debug/net10.0/9PassandoArgumentosPorValor.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/obj/Debug/net10.0/9PassandoArgumentosPorValor.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/obj/Debug/net10.0/9PassandoArgumentosPorValor.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/obj/Debug/net10.0/9PassandoArgumentosPorValor.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/obj/Debug/net10.0/9PassandoArgumentosPorValor.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/obj/Debug/net10.0/refint/9PassandoArgumentosPorValor.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/obj/Debug/net10.0/9PassandoArgumentosPorValor.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/obj/Debug/net10.0/9PassandoArgumentosPorValor.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/9PassandoArgumentosPorValor/obj/Debug/net10.0/ref/9PassandoArgumentosPorValor.dll

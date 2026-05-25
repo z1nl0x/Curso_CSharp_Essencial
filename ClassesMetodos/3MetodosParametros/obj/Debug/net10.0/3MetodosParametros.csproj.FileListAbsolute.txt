@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/bin/Debug/net10.0/3MetodosParametros
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/bin/Debug/net10.0/3MetodosParametros.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/bin/Debug/net10.0/3MetodosParametros.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/bin/Debug/net10.0/3MetodosParametros.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/bin/Debug/net10.0/3MetodosParametros.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/obj/Debug/net10.0/3MetodosParametros.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/obj/Debug/net10.0/3MetodosParametros.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/obj/Debug/net10.0/3MetodosParametros.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/obj/Debug/net10.0/3MetodosParametros.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/obj/Debug/net10.0/3MetodosParametros.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/obj/Debug/net10.0/3MetodosParametros.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/obj/Debug/net10.0/refint/3MetodosParametros.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/obj/Debug/net10.0/3MetodosParametros.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/obj/Debug/net10.0/3MetodosParametros.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/3MetodosParametros/obj/Debug/net10.0/ref/3MetodosParametros.dll

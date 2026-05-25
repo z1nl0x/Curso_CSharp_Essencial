@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/bin/Debug/net10.0/5Construtores
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/bin/Debug/net10.0/5Construtores.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/bin/Debug/net10.0/5Construtores.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/bin/Debug/net10.0/5Construtores.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/bin/Debug/net10.0/5Construtores.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/obj/Debug/net10.0/5Construtores.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/obj/Debug/net10.0/5Construtores.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/obj/Debug/net10.0/5Construtores.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/obj/Debug/net10.0/5Construtores.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/obj/Debug/net10.0/5Construtores.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/obj/Debug/net10.0/5Construtores.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/obj/Debug/net10.0/refint/5Construtores.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/obj/Debug/net10.0/5Construtores.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/obj/Debug/net10.0/5Construtores.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/5Construtores/obj/Debug/net10.0/ref/5Construtores.dll
