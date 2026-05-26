@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/bin/Debug/net10.0/13MetodosParametrosOpcionais
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/bin/Debug/net10.0/13MetodosParametrosOpcionais.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/bin/Debug/net10.0/13MetodosParametrosOpcionais.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/bin/Debug/net10.0/13MetodosParametrosOpcionais.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/bin/Debug/net10.0/13MetodosParametrosOpcionais.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/obj/Debug/net10.0/13MetodosParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/obj/Debug/net10.0/13MetodosParametrosOpcionais.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/obj/Debug/net10.0/13MetodosParametrosOpcionais.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/obj/Debug/net10.0/13MetodosParametrosOpcionais.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/obj/Debug/net10.0/13MetodosParametrosOpcionais.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/obj/Debug/net10.0/13MetodosParametrosOpcionais.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/obj/Debug/net10.0/refint/13MetodosParametrosOpcionais.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/obj/Debug/net10.0/13MetodosParametrosOpcionais.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/obj/Debug/net10.0/13MetodosParametrosOpcionais.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/13MetodosParametrosOpcionais/obj/Debug/net10.0/ref/13MetodosParametrosOpcionais.dll

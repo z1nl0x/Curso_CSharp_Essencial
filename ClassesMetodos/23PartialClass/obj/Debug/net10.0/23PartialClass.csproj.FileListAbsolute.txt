@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/bin/Debug/net10.0/23PartialClass
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/bin/Debug/net10.0/23PartialClass.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/bin/Debug/net10.0/23PartialClass.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/bin/Debug/net10.0/23PartialClass.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/bin/Debug/net10.0/23PartialClass.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/obj/Debug/net10.0/23PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/obj/Debug/net10.0/23PartialClass.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/obj/Debug/net10.0/23PartialClass.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/obj/Debug/net10.0/23PartialClass.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/obj/Debug/net10.0/23PartialClass.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/obj/Debug/net10.0/23PartialClass.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/obj/Debug/net10.0/refint/23PartialClass.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/obj/Debug/net10.0/23PartialClass.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/obj/Debug/net10.0/23PartialClass.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/23PartialClass/obj/Debug/net10.0/ref/23PartialClass.dll

@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/bin/Debug/net10.0/21TratamentoErros
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/bin/Debug/net10.0/21TratamentoErros.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/bin/Debug/net10.0/21TratamentoErros.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/bin/Debug/net10.0/21TratamentoErros.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/bin/Debug/net10.0/21TratamentoErros.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/obj/Debug/net10.0/21TratamentoErros.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/obj/Debug/net10.0/21TratamentoErros.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/obj/Debug/net10.0/21TratamentoErros.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/obj/Debug/net10.0/21TratamentoErros.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/obj/Debug/net10.0/21TratamentoErros.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/obj/Debug/net10.0/21TratamentoErros.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/obj/Debug/net10.0/refint/21TratamentoErros.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/obj/Debug/net10.0/21TratamentoErros.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/obj/Debug/net10.0/21TratamentoErros.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/21TratamentoErros/obj/Debug/net10.0/ref/21TratamentoErros.dll

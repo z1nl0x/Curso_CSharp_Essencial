@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/bin/Debug/net10.0/17Propriedades
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/bin/Debug/net10.0/17Propriedades.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/bin/Debug/net10.0/17Propriedades.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/bin/Debug/net10.0/17Propriedades.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/bin/Debug/net10.0/17Propriedades.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/obj/Debug/net10.0/17Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/obj/Debug/net10.0/17Propriedades.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/obj/Debug/net10.0/17Propriedades.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/obj/Debug/net10.0/17Propriedades.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/obj/Debug/net10.0/17Propriedades.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/obj/Debug/net10.0/17Propriedades.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/obj/Debug/net10.0/refint/17Propriedades.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/obj/Debug/net10.0/17Propriedades.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/obj/Debug/net10.0/17Propriedades.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/17Propriedades/obj/Debug/net10.0/ref/17Propriedades.dll

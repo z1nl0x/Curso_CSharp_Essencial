@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/bin/Debug/net10.0/15CamposEstaticos
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/bin/Debug/net10.0/15CamposEstaticos.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/bin/Debug/net10.0/15CamposEstaticos.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/bin/Debug/net10.0/15CamposEstaticos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/bin/Debug/net10.0/15CamposEstaticos.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/obj/Debug/net10.0/15CamposEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/obj/Debug/net10.0/15CamposEstaticos.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/obj/Debug/net10.0/15CamposEstaticos.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/obj/Debug/net10.0/15CamposEstaticos.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/obj/Debug/net10.0/15CamposEstaticos.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/obj/Debug/net10.0/15CamposEstaticos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/obj/Debug/net10.0/refint/15CamposEstaticos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/obj/Debug/net10.0/15CamposEstaticos.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/obj/Debug/net10.0/15CamposEstaticos.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/15CamposEstaticos/obj/Debug/net10.0/ref/15CamposEstaticos.dll

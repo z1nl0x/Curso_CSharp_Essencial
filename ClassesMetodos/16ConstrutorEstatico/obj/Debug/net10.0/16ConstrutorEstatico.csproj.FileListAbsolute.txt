@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/bin/Debug/net10.0/16ConstrutorEstatico
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/bin/Debug/net10.0/16ConstrutorEstatico.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/bin/Debug/net10.0/16ConstrutorEstatico.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/bin/Debug/net10.0/16ConstrutorEstatico.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/bin/Debug/net10.0/16ConstrutorEstatico.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net10.0/16ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net10.0/16ConstrutorEstatico.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net10.0/16ConstrutorEstatico.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net10.0/16ConstrutorEstatico.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net10.0/16ConstrutorEstatico.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net10.0/16ConstrutorEstatico.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net10.0/refint/16ConstrutorEstatico.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net10.0/16ConstrutorEstatico.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net10.0/16ConstrutorEstatico.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/16ConstrutorEstatico/obj/Debug/net10.0/ref/16ConstrutorEstatico.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9PassandoArgumentosPorValor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41e4502d36f751575b92cdb9c66b9169fed68716")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad2048bef8bb5b377700a705d4061efd0f48d72e")]
 [assembly: System.Reflection.AssemblyProductAttribute("9PassandoArgumentosPorValor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9PassandoArgumentosPorValor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/bin/Debug/net10.0/19Enumeration
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/bin/Debug/net10.0/19Enumeration.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/bin/Debug/net10.0/19Enumeration.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/bin/Debug/net10.0/19Enumeration.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/bin/Debug/net10.0/19Enumeration.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/obj/Debug/net10.0/19Enumeration.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/obj/Debug/net10.0/19Enumeration.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/obj/Debug/net10.0/19Enumeration.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/obj/Debug/net10.0/19Enumeration.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/obj/Debug/net10.0/19Enumeration.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/obj/Debug/net10.0/19Enumeration.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/obj/Debug/net10.0/refint/19Enumeration.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/obj/Debug/net10.0/19Enumeration.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/obj/Debug/net10.0/19Enumeration.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/ClassesMetodos/19Enumeration/obj/Debug/net10.0/ref/19Enumeration.dll
