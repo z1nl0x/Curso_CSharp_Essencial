@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/bin/Debug/net10.0/3ArrayExercicio
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/bin/Debug/net10.0/3ArrayExercicio.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/bin/Debug/net10.0/3ArrayExercicio.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/bin/Debug/net10.0/3ArrayExercicio.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/bin/Debug/net10.0/3ArrayExercicio.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/obj/Debug/net10.0/3ArrayExercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/obj/Debug/net10.0/3ArrayExercicio.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/obj/Debug/net10.0/3ArrayExercicio.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/obj/Debug/net10.0/3ArrayExercicio.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/obj/Debug/net10.0/3ArrayExercicio.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/obj/Debug/net10.0/3ArrayExercicio.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/obj/Debug/net10.0/refint/3ArrayExercicio.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/obj/Debug/net10.0/3ArrayExercicio.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/obj/Debug/net10.0/3ArrayExercicio.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/3ArrayExercicio/obj/Debug/net10.0/ref/3ArrayExercicio.dll

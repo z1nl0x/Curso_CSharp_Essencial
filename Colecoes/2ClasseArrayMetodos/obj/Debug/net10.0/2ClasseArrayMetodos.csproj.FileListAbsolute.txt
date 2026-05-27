@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/bin/Debug/net10.0/2ClasseArrayMetodos
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/bin/Debug/net10.0/2ClasseArrayMetodos.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/bin/Debug/net10.0/2ClasseArrayMetodos.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/bin/Debug/net10.0/2ClasseArrayMetodos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/bin/Debug/net10.0/2ClasseArrayMetodos.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/obj/Debug/net10.0/2ClasseArrayMetodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/obj/Debug/net10.0/2ClasseArrayMetodos.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/obj/Debug/net10.0/2ClasseArrayMetodos.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/obj/Debug/net10.0/2ClasseArrayMetodos.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/obj/Debug/net10.0/2ClasseArrayMetodos.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/obj/Debug/net10.0/2ClasseArrayMetodos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/obj/Debug/net10.0/refint/2ClasseArrayMetodos.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/obj/Debug/net10.0/2ClasseArrayMetodos.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/obj/Debug/net10.0/2ClasseArrayMetodos.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/2ClasseArrayMetodos/obj/Debug/net10.0/ref/2ClasseArrayMetodos.dll

@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/bin/Debug/net10.0/5ArraysBidimensionais
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/bin/Debug/net10.0/5ArraysBidimensionais.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/bin/Debug/net10.0/5ArraysBidimensionais.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/bin/Debug/net10.0/5ArraysBidimensionais.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/bin/Debug/net10.0/5ArraysBidimensionais.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/obj/Debug/net10.0/5ArraysBidimensionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/obj/Debug/net10.0/5ArraysBidimensionais.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/obj/Debug/net10.0/5ArraysBidimensionais.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/obj/Debug/net10.0/5ArraysBidimensionais.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/obj/Debug/net10.0/5ArraysBidimensionais.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/obj/Debug/net10.0/5ArraysBidimensionais.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/obj/Debug/net10.0/refint/5ArraysBidimensionais.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/obj/Debug/net10.0/5ArraysBidimensionais.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/obj/Debug/net10.0/5ArraysBidimensionais.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/5ArraysBidimensionais/obj/Debug/net10.0/ref/5ArraysBidimensionais.dll

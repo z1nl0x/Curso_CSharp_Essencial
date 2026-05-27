@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/bin/Debug/net10.0/4ModificadorParams
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/bin/Debug/net10.0/4ModificadorParams.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/bin/Debug/net10.0/4ModificadorParams.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/bin/Debug/net10.0/4ModificadorParams.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/bin/Debug/net10.0/4ModificadorParams.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/obj/Debug/net10.0/4ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/obj/Debug/net10.0/4ModificadorParams.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/obj/Debug/net10.0/4ModificadorParams.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/obj/Debug/net10.0/4ModificadorParams.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/obj/Debug/net10.0/4ModificadorParams.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/obj/Debug/net10.0/4ModificadorParams.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/obj/Debug/net10.0/refint/4ModificadorParams.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/obj/Debug/net10.0/4ModificadorParams.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/obj/Debug/net10.0/4ModificadorParams.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/4ModificadorParams/obj/Debug/net10.0/ref/4ModificadorParams.dll
