@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5ArraysBidimensionais", "5A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6ArrayList", "6ArrayList\6ArrayList.csproj", "{79EC0AC5-8ABF-4A57-8293-ADE97BA04EA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7List", "7List\7List.csproj", "{26527964-C3F4-45CE-A03D-C22BBBAF33DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{79EC0AC5-8ABF-4A57-8293-ADE97BA04EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79EC0AC5-8ABF-4A57-8293-ADE97BA04EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79EC0AC5-8ABF-4A57-8293-ADE97BA04EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26527964-C3F4-45CE-A03D-C22BBBAF33DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26527964-C3F4-45CE-A03D-C22BBBAF33DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26527964-C3F4-45CE-A03D-C22BBBAF33DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26527964-C3F4-45CE-A03D-C22BBBAF33DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
