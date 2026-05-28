@@ -30,5 +30,7 @@ var res1 = lista.Contains("Ana");
 lista.Sort();
 lista.Clear();
 
+List<string> frutas = new() { "Uva", "Banana", "Pera", "Maçã", "Abacate", "Laranja", "Morango" };
+// var fruta1 = frutas.Find("Teste");
 
 Console.ReadKey();
