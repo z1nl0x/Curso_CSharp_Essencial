@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/bin/Debug/net10.0/2Heranca_Construtores
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/bin/Debug/net10.0/2Heranca_Construtores.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/bin/Debug/net10.0/2Heranca_Construtores.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/bin/Debug/net10.0/2Heranca_Construtores.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/bin/Debug/net10.0/2Heranca_Construtores.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/obj/Debug/net10.0/2Heranca_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/obj/Debug/net10.0/2Heranca_Construtores.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/obj/Debug/net10.0/2Heranca_Construtores.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/obj/Debug/net10.0/2Heranca_Construtores.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/obj/Debug/net10.0/2Heranca_Construtores.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/obj/Debug/net10.0/2Heranca_Construtores.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/obj/Debug/net10.0/refint/2Heranca_Construtores.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/obj/Debug/net10.0/2Heranca_Construtores.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/obj/Debug/net10.0/2Heranca_Construtores.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/2Heranca_Construtores/obj/Debug/net10.0/ref/2Heranca_Construtores.dll

@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/bin/Debug/net10.0/1Heranca_ConceitoSintaxe
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/bin/Debug/net10.0/1Heranca_ConceitoSintaxe.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/bin/Debug/net10.0/1Heranca_ConceitoSintaxe.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/bin/Debug/net10.0/1Heranca_ConceitoSintaxe.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/bin/Debug/net10.0/1Heranca_ConceitoSintaxe.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/obj/Debug/net10.0/1Heranca_ConceitoSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/obj/Debug/net10.0/1Heranca_ConceitoSintaxe.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/obj/Debug/net10.0/1Heranca_ConceitoSintaxe.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/obj/Debug/net10.0/1Heranca_ConceitoSintaxe.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/obj/Debug/net10.0/1Heranca_ConceitoSintaxe.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/obj/Debug/net10.0/1Heranca_ConceitoSintaxe.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/obj/Debug/net10.0/refint/1Heranca_ConceitoSintaxe.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/obj/Debug/net10.0/1Heranca_ConceitoSintaxe.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/obj/Debug/net10.0/1Heranca_ConceitoSintaxe.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/1Heranca_ConceitoSintaxe/obj/Debug/net10.0/ref/1Heranca_ConceitoSintaxe.dll
