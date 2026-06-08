@@ -31,6 +31,31 @@ lista.Sort();
 lista.Clear();
 
 List<string> frutas = new() { "Uva", "Banana", "Pera", "Maçã", "Abacate", "Laranja", "Morango" };
-// var fruta1 = frutas.Find("Teste");
+var fruta1 = frutas.Find(Procura);
+Console.WriteLine(fruta1);
+
+var fruta2 = frutas.Find(i => i.Contains('n'));
+Console.WriteLine($"\nExpressão Lambda => {fruta2}");
+
+var fruta3 = frutas.FindLast(i => i.Contains('n'));
+Console.WriteLine($"\nFindLast: {fruta3}");
+
+var frutas4 = frutas.FindIndex(i => i.Contains('n'));
+Console.WriteLine($"\nFindIndex : indice={frutas4} item={frutas[frutas4]}");
+
+var frutas5 = frutas.FindLastIndex(i => i.Contains('n'));
+Console.WriteLine($"\nFindLastIndex : indice={frutas5} item={frutas[frutas5]}");
+
+var frutas6 = frutas.FindAll(i => i.Contains('n'));
+Console.WriteLine("\nFindAll :");
+foreach (var item in frutas6)
+{
+    Console.WriteLine($"{item} ");
+}
 
 Console.ReadKey();
+
+static bool Procura(string item)
+{
+    return item.Contains('n');
+}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5ArraysBidimensionais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ece121ee8faa116c56fac5959382df0f0da0110")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8b9a66cad68a517f7f8cb8b020e9d4307632675")]
 [assembly: System.Reflection.AssemblyProductAttribute("5ArraysBidimensionais")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5ArraysBidimensionais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

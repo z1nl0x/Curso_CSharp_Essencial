@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/bin/Debug/net10.0/11NumerosAleatorios
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/bin/Debug/net10.0/11NumerosAleatorios.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/bin/Debug/net10.0/11NumerosAleatorios.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/bin/Debug/net10.0/11NumerosAleatorios.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/bin/Debug/net10.0/11NumerosAleatorios.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/obj/Debug/net10.0/11NumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/obj/Debug/net10.0/11NumerosAleatorios.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/obj/Debug/net10.0/11NumerosAleatorios.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/obj/Debug/net10.0/11NumerosAleatorios.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/obj/Debug/net10.0/11NumerosAleatorios.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/obj/Debug/net10.0/11NumerosAleatorios.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/obj/Debug/net10.0/refint/11NumerosAleatorios.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/obj/Debug/net10.0/11NumerosAleatorios.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/obj/Debug/net10.0/11NumerosAleatorios.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/Colecoes/11NumerosAleatorios/obj/Debug/net10.0/ref/11NumerosAleatorios.dll
