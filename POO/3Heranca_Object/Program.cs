@@ -11,7 +11,7 @@ public class Classe2
 {
 }
 
-public class ClasseDerivada : Classe1, Classe2
+public class ClasseDerivada : Classe1 //Classe2
 {
     
 }

@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/bin/Debug/net10.0/5HerancaVirtualOverride
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/bin/Debug/net10.0/5HerancaVirtualOverride.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/bin/Debug/net10.0/5HerancaVirtualOverride.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/bin/Debug/net10.0/5HerancaVirtualOverride.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/bin/Debug/net10.0/5HerancaVirtualOverride.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/obj/Debug/net10.0/5HerancaVirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/obj/Debug/net10.0/5HerancaVirtualOverride.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/obj/Debug/net10.0/5HerancaVirtualOverride.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/obj/Debug/net10.0/5HerancaVirtualOverride.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/obj/Debug/net10.0/5HerancaVirtualOverride.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/obj/Debug/net10.0/5HerancaVirtualOverride.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/obj/Debug/net10.0/refint/5HerancaVirtualOverride.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/obj/Debug/net10.0/5HerancaVirtualOverride.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/obj/Debug/net10.0/5HerancaVirtualOverride.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/5HerancaVirtualOverride/obj/Debug/net10.0/ref/5HerancaVirtualOverride.dll

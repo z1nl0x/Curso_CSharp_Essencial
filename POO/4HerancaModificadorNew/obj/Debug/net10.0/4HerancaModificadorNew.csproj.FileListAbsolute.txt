@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/bin/Debug/net10.0/4HerancaModificadorNew
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/bin/Debug/net10.0/4HerancaModificadorNew.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/bin/Debug/net10.0/4HerancaModificadorNew.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/bin/Debug/net10.0/4HerancaModificadorNew.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/bin/Debug/net10.0/4HerancaModificadorNew.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/obj/Debug/net10.0/4HerancaModificadorNew.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/obj/Debug/net10.0/4HerancaModificadorNew.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/obj/Debug/net10.0/4HerancaModificadorNew.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/obj/Debug/net10.0/4HerancaModificadorNew.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/obj/Debug/net10.0/4HerancaModificadorNew.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/obj/Debug/net10.0/4HerancaModificadorNew.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/obj/Debug/net10.0/refint/4HerancaModificadorNew.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/obj/Debug/net10.0/4HerancaModificadorNew.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/obj/Debug/net10.0/4HerancaModificadorNew.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/4HerancaModificadorNew/obj/Debug/net10.0/ref/4HerancaModificadorNew.dll

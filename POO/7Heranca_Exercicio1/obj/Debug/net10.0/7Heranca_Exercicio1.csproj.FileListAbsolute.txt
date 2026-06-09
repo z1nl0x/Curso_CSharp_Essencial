@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/bin/Debug/net10.0/7Heranca_Exercicio1
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/bin/Debug/net10.0/7Heranca_Exercicio1.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/bin/Debug/net10.0/7Heranca_Exercicio1.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/bin/Debug/net10.0/7Heranca_Exercicio1.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/bin/Debug/net10.0/7Heranca_Exercicio1.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/obj/Debug/net10.0/7Heranca_Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/obj/Debug/net10.0/7Heranca_Exercicio1.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/obj/Debug/net10.0/7Heranca_Exercicio1.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/obj/Debug/net10.0/7Heranca_Exercicio1.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/obj/Debug/net10.0/7Heranca_Exercicio1.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/obj/Debug/net10.0/7Heranca_Exercicio1.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/obj/Debug/net10.0/refint/7Heranca_Exercicio1.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/obj/Debug/net10.0/7Heranca_Exercicio1.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/obj/Debug/net10.0/7Heranca_Exercicio1.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/7Heranca_Exercicio1/obj/Debug/net10.0/ref/7Heranca_Exercicio1.dll
