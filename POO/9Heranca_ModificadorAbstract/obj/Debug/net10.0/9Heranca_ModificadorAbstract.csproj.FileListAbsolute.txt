@@ -1,0 +1,15 @@
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/bin/Debug/net10.0/9Heranca_ModificadorAbstract
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/bin/Debug/net10.0/9Heranca_ModificadorAbstract.deps.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/bin/Debug/net10.0/9Heranca_ModificadorAbstract.runtimeconfig.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/bin/Debug/net10.0/9Heranca_ModificadorAbstract.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/bin/Debug/net10.0/9Heranca_ModificadorAbstract.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/obj/Debug/net10.0/9Heranca_ModificadorAbstract.GeneratedMSBuildEditorConfig.editorconfig
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/obj/Debug/net10.0/9Heranca_ModificadorAbstract.AssemblyInfoInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/obj/Debug/net10.0/9Heranca_ModificadorAbstract.AssemblyInfo.cs
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/obj/Debug/net10.0/9Heranca_ModificadorAbstract.csproj.CoreCompileInputs.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/obj/Debug/net10.0/9Heranca_ModificadorAbstract.sourcelink.json
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/obj/Debug/net10.0/9Heranca_ModificadorAbstract.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/obj/Debug/net10.0/refint/9Heranca_ModificadorAbstract.dll
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/obj/Debug/net10.0/9Heranca_ModificadorAbstract.pdb
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/obj/Debug/net10.0/9Heranca_ModificadorAbstract.genruntimeconfig.cache
+/home/z1nl0x/Documentos/Pessoal/Curso_CSharp_Essencial/POO/9Heranca_ModificadorAbstract/obj/Debug/net10.0/ref/9Heranca_ModificadorAbstract.dll
